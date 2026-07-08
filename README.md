@@ -6,4 +6,4 @@ I write philosophy essays daily, notes, video game lore, machine learning work, 
 
 Fun facts about me. I am highly intellectually curious and quite cunning. I enjoy learning and will never stop!! :)
 
-I intend to hold myself publicly accountable because I spend a lot of time playing Atomic Heart. I hate feeling uneducated, not pursuing what I want to do because of distractions. 
+I intend to hold myself publicly accountable because I spend a lot of time playing Atomic Heart. Although it's a phenomenal game, it distracts me from what internally matters to me. 
