@@ -1,1 +1,9 @@
 # README.md
+
+Hallo
+Gay
+I am a Machine Learning and Tech Hobbyist. 
+
+I write philosophy essays daily, notes, video game lore, machine learning work, etc... 
+
+Fun facts about me. I am highly intellectually curious and quite cunning. I enjoy learning and will never stop!! :)
