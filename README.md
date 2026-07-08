@@ -1,7 +1,6 @@
 # README.md
 
-Hallo
-I am a Machine Learning and Tech Hobbyist. 
+Hallo, I am a Machine Learning and Tech Hobbyist. 
 
 I write philosophy essays daily, notes, video game lore, machine learning work, etc... 
 
