@@ -1,0 +1,9 @@
+def f(x):
+return   3*x**2 - 4*x + 5
+
+x_0 = 3
+delta_x = 1
+f(x_0 + delta_x) - f(x_0) / delta_x
+
+
+
